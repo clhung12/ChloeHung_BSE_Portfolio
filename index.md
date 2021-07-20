@@ -1,5 +1,5 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# Knock Detecting Lock
+The Knock Detecting Lock is a project that reads in a sequence of knocks and checks it to the correct sequence to see whether or not it will open a box. It is also able to input any sequence of knocks as the answer when the program button is pressed.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -13,9 +13,9 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My second milestone involved finishing up the main build and code of the project. I started by taking my original code and changing it to involve sequences of knocks instead of just two by putting the times into an array. Once all the values were stored, the program compared if the number of knocks is correct, the individual time between each knock is fairly correct, and the sequence overall is not too different. Then I recieved the piezo sensor which detects vibrations and replaced the button with it. I also implemented a programming button so that I could enter in a new knock sequence whenever I held it down instead of at the beginning of the program. I also bought the main box portion and the lock mechanism and glued all the pieces into it. One of the main problems I faced was with the program being very unreliable for when it recorded a knock. It would sometimes read in multiple of not read in at all. I fixed this by adding a resistor so that there was no extra noise, which allowed me to change the threshold value to as low as 20. 
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Milestone2](https://res.cloudinary.com/marcomontalbano/image/upload/v1626803629/video_to_markdown/images/youtube--j6_tQjlKj94-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=j6_tQjlKj94&ab_channel=BlueStampEng "Milestone2"){:target="_blank" rel="noopener"}
 # First Milestone
   
 
